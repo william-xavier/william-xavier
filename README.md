@@ -2,10 +2,12 @@
 
 
 :technologist: Full Stack Developer
+
+
 :books: I am graduating in the 5th semester of Information Systems at PUC-MINAS
 
 
-:bulb: Stack ...
+<h2 align="left"> Teck Stack </h2>h2
 ###
 
 
