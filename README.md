@@ -8,7 +8,7 @@
 
 
 
-<h4 align="left"> Main Stack </h4>
+<h4 align="left"> My Stack: </h4>
 
 
 <div align="left">
