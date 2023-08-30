@@ -7,8 +7,7 @@
 :books: I am graduating in the 5th semester of Information Systems at PUC-MINAS
 
 
-<h2 align="left"> Teck Stack </h2>h2
-###
+<h3 align="left"> Teck Stack </h3>
 
 
 <div align="left">
