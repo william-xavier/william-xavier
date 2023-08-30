@@ -1,11 +1,11 @@
 <h2 align="left">Hi, my name is William Xavier! </h2>
 
 
-`:technologist:` Full Stack Developer
-`:books:` I am graduating in the 5th semester of Information Systems at PUC-MINAS
+:technologist: Full Stack Developer
+:books: I am graduating in the 5th semester of Information Systems at PUC-MINAS
 
 
-`:bulb:` Stack ...
+:bulb: Stack ...
 ###
 
 
