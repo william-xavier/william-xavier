@@ -1,11 +1,13 @@
-<h2 align="left">Hi 👋! My name is William Xavier! </h2>
+<h2 align="left">Hi, my name is William Xavier! </h2>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+`:technologist:` Full Stack Developer
+`:books:` I am graduating in the 5th semester of Information Systems at PUC-MINAS
+
+
+`:bulb:` Stack ...
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
