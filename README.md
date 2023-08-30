@@ -4,7 +4,7 @@
 :technologist: Full Stack Developer
 
 
-:books: I am graduating in the 5th semester of Information Systems at PUC-MINAS
+:books: I am graduating of Information Systems at PUC-MINAS
 
 
 
