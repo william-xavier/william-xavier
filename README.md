@@ -1,10 +1,10 @@
 <h2 align="left">Hi, my name is William Xavier! </h2>
 
 
-:technologist: Full Stack Developer
+:technologist: IT Manager
 
 
-:books: I am graduating of Information Systems at PUC-MINAS
+:books: Graduate in Information Systems from PUC-Minas
 
 
 
